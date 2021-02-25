@@ -1,0 +1,14 @@
+{
+  "name": "movie_ql",
+  "version": "1.0.0",
+  "description": "lee's movie_ql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lee",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
